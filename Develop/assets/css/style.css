@@ -22,12 +22,18 @@ h1 {
 }
 
 ul {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
+    /* List items in navigation bar */
+    text-align: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+}   
+
+li {
+    /* Sets display to inline */
+    display: inline;
     list-style-type: none;
+    font-size: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
 }
 
 .header div ul li {
