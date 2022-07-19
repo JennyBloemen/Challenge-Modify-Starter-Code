@@ -4,10 +4,13 @@
   
   Required criteria included the following:
   <ul> 
-    <li>Adhere to the agile project managment format.</li>
-    <li>Provide a codebase that follows accessiblity standards
-    <li>Create a read me file
-    <li>Create a working webpage hosted on github
+    <li>Create a new repository on GitHub</li>
+    <li>Adhere to the agile project managment format</li>
+    <li>Modify the html and css codebase to follow accessiblity standards</li>
+    <li>Create a read me file</li>
+    <li>Hosted the webpage on github</li>
+  </ul>
+      
       
       
   
