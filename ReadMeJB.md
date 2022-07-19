@@ -1,7 +1,7 @@
 <h1>Boot Camp Class Challenge Week 1
-<br>  
+<br><br>  
 <p>This was an on-the-job ticket challenge in which I was to modify starter code obtianed from a class repository on gitlab. The repository included a user story, acceptance criteria and a mock-up.   
-  
+<br><br>  
   Required criteria included the following:
   <ul> 
     <li>Create a new repository on GitHub</li>
