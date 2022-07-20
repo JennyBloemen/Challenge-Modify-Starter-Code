@@ -23,6 +23,7 @@ header h1 {
 /*removed class indicator*/
 header h1 .seo {
     color: #d9dcd6;
+    font-size: 48px;
 }
 /*simplified to element*/
 nav {
