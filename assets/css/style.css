@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-size: 16px;
 }
 
 body {
@@ -44,10 +45,6 @@ li {
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -172,6 +169,6 @@ footer {
     text-align: center;
 }
 /*simplified footer element by removing class indicator*/
-h2 {
+h4 {
     font-size: 20px;
 }
