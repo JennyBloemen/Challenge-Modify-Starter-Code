@@ -61,9 +61,9 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-/*moved location*/
+/*consolidated and simplified class name*/
 }
-.search-engine-optimization {
+.flower {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -71,24 +71,7 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*moved location*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/*moved location*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 /*moved location*/
 .float-left {
     float: left;
@@ -99,17 +82,12 @@ a {
     float: right;
     margin-left: 25px;
 }
-/*consolidated*/
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img
- {
+/*consolidated and simplified class name*/
+.flower img {
     max-height: 200px;
 }
-/*consolidated*/
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+/*consolidated and simplified class name*/
+.flower h2 {
     margin-bottom: 35px;
     font-size: 36px;
 }
