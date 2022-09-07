@@ -21,7 +21,7 @@
     </li>
   </ul>
 <h3>Screenshot or Video of Application</h3>
-<img src=".assets/images/ApplicationVideo.webm"width="640" height="360"/> 
+<img src="./"/> 
 <h3>Sources</h3>
 <ul>
   <li>I am the only contributor and the website is for educational purposes only</li> 
