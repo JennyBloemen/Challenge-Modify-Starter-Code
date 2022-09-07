@@ -1,8 +1,9 @@
 <h1>Boot Camp Class Challenge Week 1</h1>
 <br>  
+<h3>Description</h3>
 <p>This was an on-the-job ticket challenge in which I was to modify starter code obtianed from a class repository on gitlab. The repository included a user story, acceptance criteria and a mock-up.</p>    
 <br>  
-  Required criteria included the following:
+<h3>Project Requirements</h3>
   <ul> 
     <li>Create a new repository on GitHub</li>
     <li>Adhere to the agile project managment format</li>
@@ -11,8 +12,20 @@
     <li>Hosted the webpage on github</li>
   </ul>
 <br>  
-  <p>I am the only contributor and the website is for educational purposes only</p> 
-      
+<h3>Links to Page</h3> 
+
+<ul>
+    <li>Deployed: https://jennybloemen.github.io/Challenge-7-21-22/ </li>
+    <li>GitHub Repo: https://github.com/JennyBloemen/Challenge-7-21-22.git</li>
+  </ul>
+<h3>Screenshot or Video of Application</h3>
+<img src=".assets/images/ApplicationVideo.webm"width="640" height="360"/> 
+<h3>Sources</h3>
+<ul>
+  <li>I am the only contributor and the website is for educational purposes only</li> 
+  <li>Class Ta's</li>
+  <li>MDNWebDocs</li>
+       
       
       
   
