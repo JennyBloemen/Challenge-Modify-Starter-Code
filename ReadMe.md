@@ -15,8 +15,10 @@
 <h3>Links to Page</h3> 
 
 <ul>
-    <li>Deployed: https://jennybloemen.github.io/Challenge-7-21-22/ </li>
-    <li>GitHub Repo: https://github.com/JennyBloemen/Challenge-7-21-22.git</li>
+    <li>Deployed: https://jennybloemen.github.io/Challenge-Modify-Starter-Code/
+    </li>
+    <li>GitHub Repo: https://github.com/JennyBloemen/Challenge-7-21-22.git
+    </li>
   </ul>
 <h3>Screenshot or Video of Application</h3>
 <img src=".assets/images/ApplicationVideo.webm"width="640" height="360"/> 
