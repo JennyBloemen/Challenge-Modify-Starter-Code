@@ -21,7 +21,9 @@
     </li>
   </ul>
 <h3>Screenshot or Video of Application</h3>
-<img src="./"/> 
+<img src="./assets/images/Screen-Capture-1 copy.jpg">
+<img src="./assets/images/Screen-Capture-2 copy.jpg">
+
 <h3>Sources</h3>
 <ul>
   <li>I am the only contributor and the website is for educational purposes only</li> 
