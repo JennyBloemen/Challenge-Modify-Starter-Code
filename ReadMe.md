@@ -20,7 +20,7 @@
     <li>GitHub Repo: https://github.com/JennyBloemen/Challenge-7-21-22.git
     </li>
   </ul>
-<h3>Screenshot or Video of Application</h3>
+<h3>Screenshot of Application</h3>
 <img src="./assets/images/Screen-Capture-1 copy.jpg">
 <img src="./assets/images/Screen-Capture-2 copy.jpg">
 
